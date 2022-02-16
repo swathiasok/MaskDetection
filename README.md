@@ -1,3 +1,3 @@
 # MaskDetection
 
-Real time face-mask detection using Deep Learning 
+Face-mask detection using Deep Learning and CNN
